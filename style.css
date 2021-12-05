@@ -1,0 +1,37 @@
+body{
+    background-image:url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX25531332.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+.header{
+    font-size:35px;
+    color:white;
+    background-color: rgb(91, 38, 126);
+    margin:0;
+    padding:10px;
+    font-family: 'Sofia', cursive;
+}
+
+.subheader{
+    font-size:25px !important;
+    color:white;
+    line-height:1.5;
+    font-family: 'Nanum Pen Script', cursive !important;
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    background:white;
+    font-size:20px;
+    text-align:center;
+    width:100%;
+    padding:10px;
+}
+
+canvas{
+    border-radius:20px;
+    border:5px solid rgb(91, 38, 126);
+    box-shadow:5px 5px 5px grey;
+}
